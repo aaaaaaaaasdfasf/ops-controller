@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "1"
+version: "2"
 id: "aaaaaaaaasdfasf-ops-controller"
 description: "CloudBees CI configuration bundle for the aaaaaaaaasdfasf ops-controller Controller"
 jcasc:
