@@ -5,4 +5,8 @@ description: "CloudBees CI configuration bundle for the aaaaaaaaasdfasf ops-cont
 jcasc:
   - "jenkins.yaml"
 plugins:
-  - "plugins.yaml"
+  - "plugins.yaml"  
+catalog:
+  - "plugin-catalog.yaml"
+items:
+  - "items.yaml"
